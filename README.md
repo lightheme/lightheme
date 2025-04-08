@@ -4,9 +4,9 @@
 
 <h4 style="line-height: 6px">I have been working in the IT industry since 2020. 
 Initially, I worked as a Java developer at a local game studio. 
-<br>After that, I spent two years developing console and server programs 
-for automating actions, data processing, <br>database management, and just web servers. 
-And over the last year, I've been studying full stack webapp development,<br> as well as website design.</h4>
+After that, I spent two years developing console and server programs 
+for automating actions, data processing, database management, and just web servers. 
+And over the last year, I've been studying full stack webapp development, as well as website design.</h4>
 
 <br>
 
