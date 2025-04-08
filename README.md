@@ -58,7 +58,7 @@ And over the last year, I've been studying full stack webapp development,<br> as
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lightheme/lightheme/blob/06ffe04270443a64d00b8b5a0d5f38a24b4a2059/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/lightheme/lightheme/blob/06ffe04270443a64d00b8b5a0d5f38a24b4a2059/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
