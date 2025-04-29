@@ -2,11 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Senior+JS+Developer;Experience+in+IT%3A+5+years)](https://git.io/typing-svg)
 
-<h4 style="line-height: 6px">I have been working in the IT industry since 2020. 
-Initially, I worked as a Java developer at a local game studio. 
-After that, I spent two years developing console and server programs 
-for automating actions, data processing, database management, and just web servers. 
-And over the last year, I've been studying full stack webapp development, as well as website design.</h4>
+<p style="font-size: large;">I have been working in the IT industry since 2020. 
+  Initially, I worked as a Java developer at a local game studio. 
+  After that, I spent two years developing console and server programs 
+  for automating actions, data processing, database management, and just web servers. 
+  And over the last year, I've been studying full stack webapp development, as well as website design.
+</p>
 
 <br>
 
