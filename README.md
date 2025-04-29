@@ -9,7 +9,6 @@
   And over the last year, I've been studying full stack webapp development, as well as website design.
 </p>
 
-<br>
 
 ## My arsenal:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
